@@ -19,7 +19,7 @@ export const Card = props => {
 	);
 };
 
-Card.proptype = {
+Card.propTypes = {
 	link: PropTypes.string,
 	title: PropTypes.string,
 	buttom: PropTypes.string

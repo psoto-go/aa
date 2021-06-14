@@ -15,6 +15,6 @@ export const Footer = props => {
 	);
 };
 
-Footer.propType = {
+Footer.propTypes = {
 	copi: PropTypes.string
 };
